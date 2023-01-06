@@ -1,0 +1,30 @@
+{
+  "name": "zxc",
+  "version": "1.0.0",
+  "description": "Javascript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtycoB/education.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "ArtycoB <bq.2003@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtycoB/education/issues"
+  },
+  "homepage": "https://github.com/ArtycoB/education#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
